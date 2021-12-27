@@ -30,7 +30,7 @@
                 <nav>
                     <ul>
                         <li><a class="about">אודות</a></li>
-                        <li><a href="index.aspx">למשחק</a></li>
+                        <li><a href="index.html">למשחק</a></li>
                     </ul>
                 </nav>
             </header>
